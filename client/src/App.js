@@ -170,7 +170,7 @@ class App extends Component {
         {txHashes.length > 0 && (
           <Section>
             <Container>
-              <Heading>Transactions log</Heading>
+              <Heading>Transactions log (only for ropsten)</Heading>
 
               <Table>
                 <thead>
