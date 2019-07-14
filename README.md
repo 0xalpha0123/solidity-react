@@ -10,7 +10,11 @@ Finally, [Metamask](https://metamask.io/) is needed to actually accept/reject tr
 
 ## Install
 
-Download and install NodeJS >= 10. Then run:
+Prerequisites:
+- NodeJS >= 10
+- Metamask
+
+Clone the repo, then run:
 
 ```bash
 $ cd solidity-react-storage

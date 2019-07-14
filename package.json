@@ -1,7 +1,7 @@
 {
-  "name": "test-smart-contract",
+  "name": "solidity-react-storage",
   "version": "1.0.0",
-  "description": "",
+  "description": "An experiment with Truffle, Solidity, React and Web3.js",
   "directories": {
     "test": "test"
   },
